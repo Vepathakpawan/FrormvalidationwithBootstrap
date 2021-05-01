@@ -1,0 +1,21 @@
+.error {
+    color: blue;
+}
+
+.col-md-6 {
+    padding: 20px;
+    background-image: url("C:\Users\om\FormValidationWithBootstrap\src\assets\image\form.jpg");
+    background-repeat: no-repeat, repeat;
+    background-position: center;
+    background-size: cover;
+    width: auto;
+    height: auto;
+    text-align: center;
+}
+
+.formcontrol {
+    border: none;
+    border-radius: 20px 20px 20px;
+    text-decoration: none;
+    width: 50%;
+}
